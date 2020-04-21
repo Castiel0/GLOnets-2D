@@ -1,4 +1,4 @@
-#Original code for GLOnet-2D in https://github.com/jiaqi-jiang/GLOnet
+# Original code for GLOnet in https://github.com/jiaqi-jiang/GLOnet
 
 # Global optimization based on generative nerual networks (GLOnet-2D)
 
