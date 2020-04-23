@@ -61,6 +61,6 @@ Jiaqi Jiang, Jonathan A. Fan
 
 NewMain.py for parameter scan
 
-pic-combine.py for analyze the results of parameter scan
+pic-combine.py for analyzing the results of parameter scan
 
 ./runs for tensorboard
